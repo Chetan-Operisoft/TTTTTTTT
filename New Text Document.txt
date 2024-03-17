@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Embedded PNG</title>
+</head>
+<body>
+<img src="
+https://chetan123456.s3.ap-south-1.amazonaws.com/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg"
+alt="Description of the image">
+
+</body>
+</html>
+has context menu
